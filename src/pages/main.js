@@ -9,7 +9,6 @@ import dragon from "../assets/images/gifs/dragon.gif";
 import ephemeris from "../assets/images/gifs/ephemeris.gif";
 import farming from "../assets/images/gifs/farming.gif";
 import forestspirit from "../assets/images/gifs/forest-spirit.gif";
-import forestspirit02 from "../assets/images/gifs/forest-spirit-miyazaki-ghibli.gif";
 import lake from "../assets/images/gifs/ghibli-lake-flower.gif";
 import heart from "../assets/images/gifs/heart-swallow.gif";
 import howl from "../assets/images/gifs/howl.gif";
@@ -57,7 +56,6 @@ export const Main = () => {
                 <img src={ephemeris} alt="studio ghibli"/>
                 <img src={farming} alt="studio ghibli"/>
                 <img src={forestspirit} alt="studio ghibli"/>
-                <img src={forestspirit02} alt="studio ghibli"/>
                 <img src={lake} alt="studio ghibli"/>
                 <img src={heart} alt="studio ghibli"/>
                 <img src={howl} alt="studio ghibli"/>
