@@ -6,7 +6,7 @@ import {Main} from "./pages/main";
 export const Router = () => {
     return (
         <Routes>
-            <Route path="/about" element={<Main/>}/>
+            <Route path="/" element={<Main/>}/>
         </Routes>
     );
 }

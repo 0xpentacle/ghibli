@@ -53,25 +53,3 @@
 
 @import 'animations/spinner';
 
-
-.cl-cat-01 {
-  background-image: url(../../assets/images/cl.png);
-  position: fixed;
-  top: 4rem;
-  left: 1rem;
-  width: 5rem;
-  height: 10rem;
-  background-size: 5rem 10rem;
-  transform: rotate(20deg);
-}
-
-.cl-cat-02 {
-  background-image: url(../../assets/images/cl.png);
-  position: fixed;
-  top: 3.25rem;
-  right: 1rem;
-  width: 5rem;
-  height: 10rem;
-  background-size: 5rem 10rem;
-  transform: rotate(-20deg);
-}

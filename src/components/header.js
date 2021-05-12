@@ -6,7 +6,7 @@ class Header extends Component {
     render() {
         return <header>
             <div className="header-content flex-justify-center">
-                <h1>Studio Ghibli gif enjoyers</h1>
+                <h2>Studio Ghibli gifs</h2>
             </div>
         </header>
     }
